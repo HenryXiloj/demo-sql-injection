@@ -1,3 +1,3 @@
 ﻿# demo-sql-injection
 # Detailed description and steps for run project found here: 
-[demp-sql-injection-hibernate-spring-jdbc](https://jarmx.blogspot.com/2023/02/sql-injection-in-hibernate-spring-jdbc.html)
+[demo-sql-injection-hibernate-spring-jdbc](https://jarmx.blogspot.com/2023/02/sql-injection-in-hibernate-spring-jdbc.html)
